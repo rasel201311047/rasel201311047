@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, vue**
 
-- 📫 How to reach me **raselahammed785@gmail.comd**
+- 📫 How to reach me **raselahammed785@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
