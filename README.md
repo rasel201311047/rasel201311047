@@ -237,7 +237,7 @@ learning **Laravel** - 💬 Ask me about **react,expo** - 📫 How to reach me
 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX/////3Nv/cGr/dG7/5uX/+Pf/hYD/paL/nJj/jon//Pz/Y1z/hoD/eXP/6ej/ubf/8vL/sq//iYX/lZH/mZX/y8n/4N//g33/oJz/X1f/MiT/w8H/09H/fnj/kY3/q6j/TkX/WVH/amMDRFxnAAAAr0lEQVR4Ac3JxWHEMAAAwbUtNjNj/z0GPofKOzdiLZ8qCCOBn1QajHX4xAlAmgJkaZg/xaSI8jKVFbi6gTbquOtB55DAMGbAMD3HefmNGGnsHBbWHwuEgsQbG0kxwPoeK+otXJxm3d/jEWWQp2cveYlBd7UA7TXAaxx3ABHO7j1Ktf9uBgrDkwggCM0qgaLhSXAtACtAmRa8KKMMFCzXgofdsDIq8cvWqXb8SfL/vgFFhAm7+9RQWQAAAABJRU5ErkJggg=="
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
       alt="typescript"
       width="40"
       height="40"
@@ -246,7 +246,7 @@ learning **Laravel** - 💬 Ask me about **react,expo** - 📫 How to reach me
 
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
     <img
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcEwAABQAABQAABQAABQAABQAABMAABQAABMAABQAAACkpKaQkJPDw8T+/v5SUlfg4OF1dXkvLzZWMrGaAAAACnRSTlMAPJLF5PX/xAPaQKz+0wAAAKxJREFUeAF904UBhDAMAMBQd9t/2CeP1YNzdYEzDkIZF1VwJsmBAkqLaWh1ItpcAQ6xjAPIGgnINVJg9acx9ReDpg/WNT2COp8Pwdd5KzQxnBHNHBNimqLJ4R/ZzBDLxJInaBy2BtvkzIiY53l0aOxVG9ZsTY/YzqfNHWLGcmHBrC265w+mcw2iGjG8vgP/2vfKgYllMKBrlPtlsl1g26W5X9S4HWS/Heh/O/wA4LAUsuFVSoYAAAAASUVORK5CYII="
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg"
       alt="typescript"
       width="40"
       height="40"
