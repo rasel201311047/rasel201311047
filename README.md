@@ -238,7 +238,7 @@ learning **Laravel** - 💬 Ask me about **react,expo** - 📫 How to reach me
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-      alt="typescript"
+      alt="laravel"
       width="40"
       height="40"
     />
@@ -247,7 +247,7 @@ learning **Laravel** - 💬 Ask me about **react,expo** - 📫 How to reach me
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
     <img
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg"
-      alt="typescript"
+      alt="expo"
       width="40"
       height="40"
     />
