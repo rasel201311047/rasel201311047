@@ -8,13 +8,6 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=rasel201311047"
-      alt="rasel201311047"
-  /></a>
-</p>
 
 - 🔭 I’m currently working on **BREAST CANCER DETECTION USING MAGNETIC RESONANCE
 IMAGING (MRI) WITH THE HELP OF MACHINE LEARNING APPROACHES** - 🌱 I’m currently
