@@ -3,6 +3,9 @@
 🚀 **React Native Developer @ Spark Tech Agency** | 💻 Full-Stack Developer | 🎯 Competitive Programmer  
 
 ---
+### 📂 Portfolio  
+Check out my work and projects here: [My Portfolio](https://portfoliojs.vercel.app/)  
+
 
 ## 🧑‍💻 About Me
 - 🌱 Passionate about **mobile & web development**
