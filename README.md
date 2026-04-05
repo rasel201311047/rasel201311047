@@ -1,36 +1,163 @@
-# 👋 Hi, I'm Rasel Islam  
+<div align="center">
 
-🚀 **React Native Developer @ Spark Tech Agency** | 💻 Full-Stack Developer | 🎯 Competitive Programmer  
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rasel%20Islam&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=React%20Native%20Developer%20%7C%20Full-Stack%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=16" width="100%" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3500&pause=800&color=00FFC8&center=true&vCenter=true&multiline=false&width=600&lines=React+Native+Developer+%40+Spark+Tech+Agency;Building+Mobile+%26+Web+Experiences+%F0%9F%9A%80;Competitive+Programmer+in+C%2FC%2B%2B+%E2%9A%A1;ML+Researcher+%C2%B7+Cancer+Detection+AI+%F0%9F%94%AC" alt="Typing SVG" />
+</a>
+
+<br/>
+<br/>
+
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/React%20Native-Developer-00FFC8?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0e17" />
+&nbsp;
+<img src="https://img.shields.io/badge/Full--Stack-Engineer-60A5FA?style=for-the-badge&logo=code&logoColor=white&labelColor=0a0e17" />
+&nbsp;
+<img src="https://img.shields.io/badge/Competitive-Programmer-C084FC?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0e17" />
+
+<br/><br/>
+
+<!-- PROFILE VIEWS + STATS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=rasel-islam&style=for-the-badge&color=00FFC8&labelColor=0a0e17&label=PROFILE+VIEWS" />
+
+</div>
+
+---
 
 ## 🧑‍💻 About Me
-- 🌱 Passionate about **mobile & web development**
-- ⚡ Skilled in **React Native, React.js, Next.js, Node.js, Express.js**
-- 🛠️ Strong foundation in **C/C++ (Competitive Programming), Python (Research), PHP**
-- 🗄️ Experience with **MongoDB** (NoSQL) & **MySQL** (SQL)
-- 🧪 Research: *Breast Cancer Detection using MRI with Machine Learning Approaches*  
-- 🎯 Love solving problems, building modern apps, and exploring new technologies  
 
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
----
-
-## 🌍 Connect with Me
-- 👩‍💻 [Portfolio](https://portfoliojs.vercel.app/) 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-- 💻 [LeetCode](https://leetcode.com/YOUR-LEETCODE)  
-- 🏆 [Codeforces](https://codeforces.com/profile/YOUR-CODEFORCES)  
-- 🥇 [HackerRank](https://www.hackerrank.com/YOUR-HACKERRANK)  
-- 📺 [YouTube](https://youtube.com/@YOUR-CHANNEL)  
+```typescript
+const raselIslam = {
+  role:       "React Native Developer @ Spark Tech Agency",
+  location:   "Bangladesh 🇧🇩",
+  passions:   ["Mobile Development", "Web Development", "Competitive Programming"],
+  research:   "Breast Cancer Detection via MRI + Machine Learning",
+  currentlyLearning: ["Advanced React Patterns", "Cloud Architecture"],
+  funFact:    "I debug at midnight and ship by dawn ☕",
+  quote:      "Code is like magic — the more you practice, the more powerful it becomes."
+};
+```
 
 ---
 
-## 🧪 Research Project
-**Title:** *Breast Cancer Detection Using Magnetic Resonance Imaging (MRI) with Machine Learning Approaches*  
-- 🔬 Leveraging ML techniques to enhance cancer detection accuracy  
-- 📊 Data-driven approach with Python-based research  
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 📱 Frontend & Mobile
+![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🖥️ Backend & Systems
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-✨ *“Code is like magic; the more you practice, the more powerful it becomes.”*  
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0a0e17&border_color=1e293b&title_color=00FFC8&icon_color=60A5FA&text_color=94a3b8&hide_border=false" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=midnight-purple&bg_color=0a0e17&border_color=1e293b&title_color=00FFC8&text_color=94a3b8&hide_border=false" />
+
+<br/>
+
+<img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&background=0a0e17&border=1e293b&ring=00FFC8&fire=60A5FA&currStreakLabel=00FFC8&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=ffffff" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+</div>
+
+---
+
+## 🔬 Research
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🧬  RESEARCH PROJECT                                           │
+│                                                                 │
+│  Breast Cancer Detection Using Magnetic Resonance               │
+│  Imaging (MRI) with Machine Learning Approaches                 │
+│                                                                 │
+│  ▸ Leveraging ML techniques to enhance cancer detection         │
+│  ▸ Data-driven approach with Python-based research pipelines    │
+│  ▸ Focus on improving diagnostic precision and recall           │
+│                                                                 │
+│  Tags: Machine Learning · MRI · Python · Medical AI             │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFC8)](https://portfoliojs.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR-CODEFORCES)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/YOUR-HACKERRANK)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is like magic — the more you practice, the more powerful it becomes."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
