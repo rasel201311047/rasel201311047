@@ -31,15 +31,15 @@
 
 ```typescript
 const raselIslam = {
-  role:       "React Native Developer @ Spark Tech Agency",
-  location:   "Bangladesh 🇧🇩",
-  passions:   ["Mobile Development", "Web Development", "Competitive Programming"],
-  research:   "Breast Cancer Detection via MRI + Machine Learning",
+  role:              "React Native Developer @ Spark Tech Agency",
+  location:          "Bangladesh 🇧🇩",
+  passions:          ["Mobile Development", "Web Development", "Competitive Programming"],
+  research:          "Breast Cancer Detection via MRI + Machine Learning",
   currentlyLearning: ["Advanced React Patterns", "Cloud Architecture"],
-  funFact:    "I debug at midnight and ship by dawn ☕",
-  quote:      "Code is like magic — the more you practice, the more powerful it becomes."
+  funFact:           "I debug at midnight and ship by dawn ☕",
+  quote:             "Code is like magic — the more you practice, the more powerful it becomes.",
 };
-```
+` ` `
 
 ---
 
