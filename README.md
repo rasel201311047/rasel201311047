@@ -1,35 +1,29 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rasel%20Islam&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=React%20Native%20Developer%20%7C%20Full-Stack%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rasel%20Islam&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20React%20Native%20%7C%20Full-Stack&descAlignY=55&descSize=16" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3500&pause=800&color=00FFC8&center=true&vCenter=true&multiline=false&width=600&lines=React+Native+Developer+%40+Spark+Tech+Agency;Building+Mobile+%26+Web+Experiences+%F0%9F%9A%80;Competitive+Programmer+in+C%2FC%2B%2B+%E2%9A%A1;ML+Researcher+%C2%B7+Cancer+Detection+AI+%F0%9F%94%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3500&pause=800&color=00FFC8&center=true&vCenter=true&multiline=false&width=600&lines=Frontend+Developer+%40+Spark+Tech+Agency;React%2C+Next.js+%26+React+Native+Specialist+%F0%9F%9A%80;Building+Fast+%26+Beautiful+Web+%26+Mobile+UIs+%E2%9A%A1;ML+Researcher+%C2%B7+Cancer+Detection+AI+%F0%9F%94%AC" alt="Typing SVG" />
 </a>
 
 <br/>
 <br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/React%20Native-Developer-00FFC8?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0e17" />
+<img src="https://img.shields.io/badge/Frontend-Developer-00FFC8?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0e17" />
 &nbsp;
-<img src="https://img.shields.io/badge/Full--Stack-Engineer-60A5FA?style=for-the-badge&logo=code&logoColor=white&labelColor=0a0e17" />
+<img src="https://img.shields.io/badge/React%20%26%20React%20Native-Mobile%20%2B%20Web-60A5FA?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0e17" />
 &nbsp;
-<img src="https://img.shields.io/badge/Competitive-Programmer-C084FC?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0e17" />
+<img src="https://img.shields.io/badge/Full--Stack-Engineer-C084FC?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0a0e17" />
 
 <br/><br/>
 
-<!-- PROFILE VIEWS + STATS BADGES -->
+<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=rasel-islam&style=for-the-badge&color=00FFC8&labelColor=0a0e17&label=PROFILE+VIEWS" />
 
 </div>
-
----
-
-
-
-
 
 ---
 
@@ -37,8 +31,7 @@
 
 <div align="center">
 
-### 📱 Frontend & Mobile
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,6 +39,13 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### 🖥️ Backend & Systems
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
